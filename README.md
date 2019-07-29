@@ -4,4 +4,4 @@ This repository contains the final assignment I programmed in my Introductory Co
 
 Several core principles were of main focus in this project. One of the most significant concepts I learned after completing this project would be the MVC relationship. As you can see from this repository, the SortEngineImpl.java, SortView.java, and SortFrame.java were all heavily studied and developed from inception to completion. 
 
-This Sort Engine GUI built upon earlier projects we had previously completed in the computer science course. 
+To run the interface, fork this repo and clone it to your system. After you have the files stored on your computer, run the SortFrame.java file. 
